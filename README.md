@@ -1,7 +1,3 @@
-## Genel istatistikler:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKoba-dev&show_icons=true)
-
-## Proje dil yoğunlukları:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoba-dev&langs_count=3)
 
 
